@@ -1,0 +1,10 @@
+*{
+    background: url(./images/home.jpeg) no-repeat;
+    background-size: cover;
+
+}
+
+.video{
+   text-align: center;
+   margin-top: 25%;
+}

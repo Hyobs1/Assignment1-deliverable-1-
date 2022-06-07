@@ -1,0 +1,36 @@
+*{
+    background: url(./images/bed.jpeg);
+    background-size:cover;
+    font-family:'Courier New', Courier, monospace
+}
+
+
+.box h1{
+    margin:0 auto;
+    color: brown;
+    text-align: center;
+    padding-top: 90px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+   
+}
+
+.box p{
+    font-size: 20px;
+    font-weight: bold;
+    margin:0 auto;
+    color: black;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .box header{
+       display: inline;
+
+    }
+}
